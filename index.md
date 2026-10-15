@@ -1,6 +1,6 @@
 # Nimbiq — Privacy Policy
 
-_Effective date: 14 October 2026 · Last updated: 14 October 2026_
+_Effective date: 14 October 2026 · Last updated: 16 October 2026_
 
 This policy explains what information the Nimbiq weather app ("Nimbiq", "the app") uses,
 why, who receives it, how long it is kept and what rights you have. It applies to the
@@ -21,11 +21,8 @@ Nimbiq is developed and published by **Ashutosh Ghodasara**, an individual devel
 based in India ("we", "us", "our"). For the purposes of the GDPR, we are the controller
 of the personal data described here.
 
-**Contact:** a dedicated privacy email address is being set up and will be listed here.
-Until then, you can reach us by opening an issue at
-[github.com/ashutoshgh/nimbiq-privacy/issues](https://github.com/ashutoshgh/nimbiq-privacy/issues).
-Issues are public, so please do not include personal details in one; we will reply with a
-private way to continue.
+**Contact:** [contact.driftnode@gmail.com](mailto:contact.driftnode@gmail.com), for privacy
+questions, requests to exercise your rights and grievances.
 
 ## 2. Information we process
 
@@ -182,4 +179,5 @@ also mention it in the app's release notes before it takes effect.
 
 ## 13. Contact
 
-Ashutosh Ghodasara, developer of Nimbiq. See section 1 for how to reach us.
+Ashutosh Ghodasara, developer of Nimbiq
+Email: [contact.driftnode@gmail.com](mailto:contact.driftnode@gmail.com)
